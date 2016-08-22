@@ -115,7 +115,7 @@ Each turn will end at 3:30 PM, Olin Time. A turn's end will occur (initially) tw
 ##215 (Mutable). 
 There is a Gamemaster. The Gamemaster's solemn duty is to make sure the game runs smoothly. The Gamemaster 
 
-1. keeps a record of all current players and strikes players from the record when they lose their player status
+1. keeps a record of all current players and their scores and strikes players from the record when they lose their player status
 2. counts votes on each rule-change and collects ballots in a manner of their choosing
 3. keeps an up-to-date rules list online 
 4. informs players that they have violated a rule and of any penalties associated with that violation
