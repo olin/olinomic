@@ -134,7 +134,7 @@ In the event that a Gamemaster is unreachable but needs to do something for the 
 
 The Gamemaster is currently Mitchell Cieminski. If the Gamemaster resigns from office, they can amend this rule only to appoint a new Gamemaster. Otherwise, new Gamemasters are determined by amending this rule in the usual way.
 
-##303 (Mutable).
+##301 (Mutable).
 All rules must have a Title to be enacted. The Title of a rule is a part of that rule.
 
 A committee will be formed to determine identifiers in place of Titles for all rules that exist at the time of this rule's enactment (that is, rules with ordinal numbers lower than 301 at the time of enactment). These special identifiers are known as Historical Names and will appear in quotes identifying them as such (to avoid confusion, no Titles may be entirely enclosed in quotation marks). A rule's Historical Name is not considered a part of that rule and therefore does not bind a player's actions, but may still be used by Judges to decide Judgement.
