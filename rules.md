@@ -79,9 +79,6 @@ When a proposed rule-change is defeated, the player who proposed it loses 10 poi
 ##207
 Each player always has exactly one vote.
 
-##208
-The winner is the first player to achieve 200 (positive) points. If a player wins in this manner, all points are reset to 0.
-
 ##209
 At no time may there be more than 30 mutable rules.
 
@@ -143,3 +140,9 @@ A committee will be formed to determine identifiers in place of Titles for all r
 
 Once a Historical Name has been established, it can become a Title, and therefore a part of the rule, by means of amendment. A rule with a Historical Name can also be honored by keeping its Historical Name indefinitely, even if the rule is amended. Therefore, only rules that once had ordinal numbers lower than 301 can have Historical Names. A rule's Historical Name cannot be changed to a different Historical Name, but can be changed to a Title of the same or different wording by means of amendment.
 
+##302
+The winner is the first player to posses a number of (positive) points that is greater than or equal to nineteen-twentieths raised to the power of the ordinal number of the proposed rule-change minus the number of the last rule-change enacted before a player won (or 301 if no player has yet won), multiplied by 200. This yields a victory point limit that begins at 200 and exponentially decays as the game progresses with a half-life of approximately fourteen turns. Note that this value is rational and will not be rounded to an integer.
+
+The victory point limit updates immediately upon the start of a turn, meaning that if the new value of this limit is less than or equal to the number of (positive) points any player already has, said player will win immediately. In the event that multiple players cross the victory point limit simultaneously in this manner, all such players will enter a rock-paper-scissors tournament, the exact rules and details of which are determined by the Gamemaster. The winner of said tournament wins. Everyone who participated in said tournament then also wins. Thus, the winner of the tournament of winners has won twice as much.
+
+This Rule was previously known as Rule 208
