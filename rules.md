@@ -4,29 +4,37 @@
 
 #Immutable Rules
 ##101
+###"This. Is. Olinomic!"
 Olinomic is a game of nomic, wherin persons, acting in accordance with the rules, communicate their game actions and results of these actions on the olinomic mailing list. All players must always abide by all the rules then in effect, in the form in which they are then in effect. The game may be won, but the game never ends.
 
 A player shall be considered any member of the olinomic mailing list that announces their intent to play to the Gamemaster. People who have lost player status according to the rules may rejoin the game in this manner.
 
 ##102
+###"Nothing Is Written In Stone"
 Initially rules in the 100's are immutable and rules in the 200's are mutable. Rules subsequently enacted or transmuted (that is, changed from immutable to mutable or vice versa) may be immutable or mutable regardless of their numbers, and rules in the Initial Set may be transmuted regardless of their numbers.
 
 ##103
+###"What's a Rule-Change?"
 A rule-change is any of the following: (1) the enactment, repeal, or amendment of a mutable rule; (2) the enactment, repeal, or amendment of an amendment of a mutable rule; or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
 
 ##104
+###"This Isn't A Dictatorship"
 All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
 
 ##105
+###"Participation Is Mandatory. Fun Is Optional."
 Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
 
 ##106
+###"The Legislative Branch"
 All proposed rule-changes shall be sent to the olinomic mailing list before they are voted on. If they are adopted, they shall guide play in the form in which they were voted on.
 
 ##107
+###"No Time Travel"
 No rule-change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule-change may have retroactive application.
 
 ##108
+###"Ordained Ordinals Rule"
 Each proposed rule-change shall be given a number for reference. The numbers shall begin with 301, and each rule-change proposed in the proper way shall receive the next successive integer, whether or not the proposal is adopted.
 
 If a rule is repealed and reenacted, it receives the number of the proposal to reenact it. If a rule is amended or transmuted, it receives the number of the proposal to amend or transmute it. If an amendment is amended or repealed, the entire rule of which it is a part receives the number of the proposal to amend or repeal the amendment. 
@@ -34,58 +42,76 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 All rules which change numbers automatically have "This Rule was previously known as Rule " and the previous rule number appended to them.
 
 ##109
+###"Alchemical Conditions"
 Rule-changes that transmute immutable rules into mutable rules may be adopted if and only if the vote is unanimous among the eligible voters. Transmutation shall not be implied, but must be stated explicitly in a proposal to take effect.
 
 ##110
+###"Rock Smashes Scissors"
 In a conflict between a mutable and an immutable rule, the immutable rule takes precedence and the mutable rule shall be entirely void. For the purposes of this rule a proposal to transmute an immutable rule does not "conflict" with that immutable rule.
 
 ##111
+###"Debate And Switch"
 If a rule-change as proposed is unclear, ambiguous, paradoxical, or destructive of play, or if it arguably consists of two or more rule-changes compounded or is an amendment that makes no difference, or if it is otherwise of questionable value, then the other players may suggest amendments or argue against the proposal before the vote. A reasonable time must be allowed for this debate. The proponent decides the final form in which the proposal is to be voted on and, unless the Judge has been asked to do so, also decides the time to end debate and vote before the end of the turn.
 
 ##112
+###"N It To Win It"
 The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
 
 ##113 
+###"Slavery Is Still Illegal"
 A player always has the option to forfeit the game rather than continue to play or incur a game penalty. No penalty worse than losing, in the judgment of the player to incur it, may be imposed. If a player forfeits, they lose their player status.
 
 ##114
+###"Wiggle Room"
 There must always be at least one mutable rule. The adoption of rule-changes must never become completely impermissible.
 
 ##115
+###"I'm So Meta, Even This Aptronym"
 Rule-changes that affect rules needed to allow or apply rule-changes are as permissible as other rule-changes. Even rule-changes that amend or repeal their own authority are permissible. No rule-change or type of move is impermissible solely on account of the self-reference or self-application of a rule.
 
 ##116 
+###"NP=P"
 Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
 #Mutable Rules
 ##201
+###"Point Of Order"
 Players shall alternate in alphabetical order by surname, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
 ##202 
+###"What's A Turn?"
 One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) subtracting 291 from the ordinal number of the proposal, multiplying the result by the fraction of favorable votes it receives, rounding the result to the nearest integer, and adding this number to one's score (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.).
 
 ##203
+###"Majority Rules (Eventually)"
 A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
 ##204
+###"10 Points For Dissenterdor!"
 If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.
 
 ##205
+###"When A Rule Becomes A Law"
 An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
 ##206
+###"10 Points FROM Proposalpuff!"
 When a proposed rule-change is defeated, the player who proposed it loses 10 points.
 
 ##207
+###"Money Is Not Speech"
 Each player always has exactly one vote.
 
 ##209
+###"30 Mutable Rules Is Enough For Anybody"
 At no time may there be more than 30 mutable rules.
 
 ##210
+###"Conspiracy Theories"
 Players may not conspire or consult on the making of future rule-changes unless they are teammates. 
 
 ##211
+###"Conflict Resolution"
 If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 
 If at least one of the rules in conflict explicitly says of itself that it defers to another rule (or type of rule) or takes precedence over another rule (or type of rule), then such provisions shall supersede the numerical method for determining precedence.
@@ -93,6 +119,7 @@ If at least one of the rules in conflict explicitly says of itself that it defer
 If two or more rules claim to take precedence over one another or to defer to one another, then the numerical method again governs.
 
 ##212
+###"The Judicial Branch"
 If players disagree about the legality of a move or the interpretation or application of a rule, then the player preceding the one moving is to be the Judge and decide the question. Disagreement for the purposes of this rule may be created by the insistence of any player. This process is called invoking Judgment.
 
 When Judgment has been invoked, the turn does not end without the consent of a majority of the other players or until Judgement has been decided.
@@ -104,11 +131,13 @@ Unless a Judge is overruled or defers Judgement, one Judge settles all questions
 New Judges are not bound by the decisions of old Judges. New Judges may, however, settle only those questions on which the players currently disagree and that affect the completion of the turn in which Judgment was invoked. All decisions by Judges shall be in accordance with all the rules then in effect; but when the rules are silent, inconsistent, or unclear on the point at issue, then the Judge shall consider game-custom and the spirit of the game before applying other standards.
 
 ##213
+###"&#35;winning: By Cleverness Or Monumental Stupidity"
 If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner. After winning in this way, that player (and any other people that the winner recruits) must decide how to fix the loophole and change the rules by fiat so that gameplay can continue. If they refuse this duty, the duty falls to the Gamemaster.
 
 This rule takes precedence over every other rule determining the winner. 
 
 ##215
+###"The Executive Branch (The First Executive Was Mitchell Cieminski)"
 There is a Gamemaster. The Gamemaster's solemn duty is to make sure the game runs smoothly. The Gamemaster 
 
 1. keeps a record of all current players and their scores and strikes players from the record when they lose their player status
@@ -138,6 +167,7 @@ A committee will be formed to determine identifiers in place of Titles for all r
 Once a Historical Name has been established, it can become a Title, and therefore a part of the rule, by means of amendment. A rule with a Historical Name can also be honored by keeping its Historical Name indefinitely, even if the rule is amended. Therefore, only rules that once had ordinal numbers lower than 301 can have Historical Names. A rule's Historical Name cannot be changed to a different Historical Name, but can be changed to a Title of the same or different wording by means of amendment.
 
 ##302
+###"&#35;winning: By Points"
 The winner is the first player to posses a number of (positive) points that is greater than or equal to nineteen-twentieths raised to the power of the ordinal number of the proposed rule-change minus the number of the last rule-change enacted before a player won (or 301 if no player has yet won), multiplied by 200. This yields a victory point limit that begins at 200 and exponentially decays as the game progresses with a half-life of approximately fourteen turns. Note that this value is rational and will not be rounded to an integer.
 
 The victory point limit updates immediately upon the start of a turn, meaning that if the new value of this limit is less than or equal to the number of (positive) points any player already has, said player will win immediately. In the event that multiple players cross the victory point limit simultaneously in this manner, all such players will enter a rock-paper-scissors tournament, the exact rules and details of which are determined by the Gamemaster. The winner of said tournament wins. Everyone who participated in said tournament then also wins. Thus, the winner of the tournament of winners has won twice as much.
@@ -145,6 +175,7 @@ The victory point limit updates immediately upon the start of a turn, meaning th
 This Rule was previously known as Rule 208
 
 ##304
+###"OUTATIME"
 Turns will begin when their start is announced by the Gamemaster. Turns should generally not last more than two game days, but a turn does not end until it is complete. Players should therefore act in a Spirit of Timeliness when performing game actions.
 
 If a turn has lasted for more than three game days, the Gamemaster (or a majority of players) may accuse one or more players of Acting In An Untimely Manner and invoke Judgement. The Judge will decide if the accused are guilty of the accusation. If any player is found guilty, their player status is removed (unless they are protected from such a sanction) and the vote is counted as if they were not eligible voters. If the proponent of a Rule-Change is found guilty, their proposal automatically fails and the turn is complete.
