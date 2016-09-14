@@ -108,9 +108,6 @@ If the rules are changed so that further play is impossible, or if the legality 
 
 This rule takes precedence over every other rule determining the winner. 
 
-##214
-Each turn will end at 3:30 PM, Olin Time. A turn's end will occur (initially) two days after a turn begins. If a turn is extended according to another rule, it will be extended in whole-day incriments. If any player has not cast a vote on a rule-change by the time one hour before the turn ends, then their player status is removed, the vote is counted as if they were not eligible voters, and the turn continues. Immediately after a turn ends, the next turn begins. If a vote on a rule-change has not been called by its proponent by 1:00 PM the day that the turn ends, the rule-change automatically fails and the proponent loses player status.
-
 ##215
 There is a Gamemaster. The Gamemaster's solemn duty is to make sure the game runs smoothly. The Gamemaster 
 
@@ -146,3 +143,12 @@ The winner is the first player to posses a number of (positive) points that is g
 The victory point limit updates immediately upon the start of a turn, meaning that if the new value of this limit is less than or equal to the number of (positive) points any player already has, said player will win immediately. In the event that multiple players cross the victory point limit simultaneously in this manner, all such players will enter a rock-paper-scissors tournament, the exact rules and details of which are determined by the Gamemaster. The winner of said tournament wins. Everyone who participated in said tournament then also wins. Thus, the winner of the tournament of winners has won twice as much.
 
 This Rule was previously known as Rule 208
+
+##304
+Turns will begin when their start is announced by the Gamemaster. Turns should generally not last more than two game days, but a turn does not end until it is complete. Players should therefore act in a Spirit of Timeliness when performing game actions.
+
+If a turn has lasted for more than three game days, the Gamemaster (or a majority of players) may accuse one or more players of Acting In An Untimely Manner and invoke Judgement. The Judge will decide if the accused are guilty of the accusation. If any player is found guilty, their player status is removed (unless they are protected from such a sanction) and the vote is counted as if they were not eligible voters. If the proponent of a Rule-Change is found guilty, their proposal automatically fails and the turn is complete.
+
+If a turn ends less than 12 game hours after it begins, the Gamemaster (or a majority of players) may award one or more players the Trophy of Timeliness to recognize their contribution to the game of Olinomic. This Trophy can be destroyed by declaration to the mailing list in exchange for one point. Each player can only posses one Trophy of Timeliness at a time, and may not transfer it to any other player. Any player who possesses a Trophy of Timeliness is properly styled "The Timely."
+
+This Rule was previously known as Rule 214
