@@ -1,6 +1,7 @@
 #Olinomic Official Rules
+_GN: Gamemaster's Notes appear in italics and are prefixed with "GN:". They are not a part of the text of the rules._
 
-(Initial Set of Rules modified by Mitchell Cieminski from http://legacy.earlham.edu/~peters/writing/nomic.htm)
+_GN: The initial set of rules was modified by Mitchell Cieminski from http://legacy.earlham.edu/~peters/writing/nomic.htm_
 
 #Immutable Rules
 ##101
@@ -81,10 +82,6 @@ Players shall alternate in alphabetical order by surname, taking one whole turn 
 ##202 
 ###"What's A Turn?"
 One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) subtracting 291 from the ordinal number of the proposal, multiplying the result by the fraction of favorable votes it receives, rounding the result to the nearest integer, and adding this number to one's score (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.).
-
-##203
-###"Majority Rules (Eventually)"
-A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
 ##204
 ###"10 Points For Dissenterdor!"
@@ -183,3 +180,11 @@ If a turn has lasted for more than three game days, the Gamemaster (or a majorit
 If a turn ends less than 12 game hours after it begins, the Gamemaster (or a majority of players) may award one or more players the Trophy of Timeliness to recognize their contribution to the game of Olinomic. This Trophy can be destroyed by declaration to the mailing list in exchange for one point. Each player can only posses one Trophy of Timeliness at a time, and may not transfer it to any other player. Any player who possesses a Trophy of Timeliness is properly styled "The Timely."
 
 This Rule was previously known as Rule 214
+
+##305
+###Fours Suck
+A rule-change is adopted if and only if the number of players who voted in favor of it was greater than half the number of eligible voters, whole, and not divisible by four.
+
+This Rule was previously known as Rule 203
+
+_GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
