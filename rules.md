@@ -188,3 +188,13 @@ A rule-change is adopted if and only if the number of players who voted in favor
 This Rule was previously known as Rule 203
 
 _GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
+
+##306
+###Wibbly-Wobbly, Timey-Wimey... Stuff
+All dates and units of time are to be measured from the inertial reference frame of an observer at rest on Earth’s surface at mean sea level at 0°00'00.0"N, 0°00'00.0"E, about 306 nautical miles off the coast of Ghana. 
+
+Whenever a rule mentions a specific time of day without containing enough information to specify a single unambiguous time zone, that time shall be interpreted to be in "Olin Time".  "Olin Time" is defined as Eastern Time (UTC -0400). 
+ 
+Whenever a rule mentions a whole-day-delineated period of time ("day", "week", "fortnight", "month", "semester", "quarter", "year", "decade", "century", "millenium", "eon", "aeon", etc), that period shall be the requisite number of days, times 86,400 seconds per day.  Game Days (and other units) may have discontinuities when expressed Olin Time - for example, if the Game has been paused by the Gamemaster.
+
+
