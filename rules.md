@@ -181,14 +181,6 @@ If a turn ends less than 12 game hours after it begins, the Gamemaster (or a maj
 
 This Rule was previously known as Rule 214
 
-##305
-###Fours Suck
-A rule-change is adopted if and only if the number of players who voted in favor of it was greater than half the number of eligible voters, whole, and not divisible by four.
-
-This Rule was previously known as Rule 203
-
-_GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
-
 ##306
 ###Wibbly-Wobbly, Timey-Wimey... Stuff
 All dates and units of time are to be measured from the inertial reference frame of an observer at rest on Earth’s surface at mean sea level at 0°00'00.0"N, 0°00'00.0"E, about 306 nautical miles off the coast of Ghana. 
@@ -197,4 +189,16 @@ Whenever a rule mentions a specific time of day without containing enough inform
  
 Whenever a rule mentions a whole-day-delineated period of time ("day", "week", "fortnight", "month", "semester", "quarter", "year", "decade", "century", "millenium", "eon", "aeon", etc), that period shall be the requisite number of days, times 86,400 seconds per day.  Game Days (and other units) may have discontinuities when expressed Olin Time - for example, if the Game has been paused by the Gamemaster.
 
+##307
+###Fours Suck
+A rule-change is adopted if the number of votes in favor of it was greater than half the number of eligible voters, whole, and not divisible by four. This is termed Regular Adoption.
 
+While proposing a rule-change, the proponent may request an Expedited Adoption of it. If every eligible voter votes in favor of an Expedited Adoption within one hour of it being requested, the rule-change is immediately adopted without debate or discussion, and the player who voted last automatically receives an Expeditor Badge. Any player who possesses an Expeditor Badge is properly styled "The Expedient." If the vote on Expedited Adoption fails, the turn continues as usual (likely but not necessarily including a call to vote via Regular Adoption).
+
+Rules can only be adopted by Regular or Expedited Adoption.
+
+This Rule was previously known as Rule 203
+
+This Rule was previously known as Rule 305
+
+_GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
