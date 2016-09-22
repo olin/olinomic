@@ -208,3 +208,14 @@ This Rule was previously known as Rule 203
 This Rule was previously known as Rule 305
 
 _GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
+
+##309
+###Achievement Unlocked
+Players who had a zero or negative score when another player Won are said to have "Lost" the Game. Whenever one or more players Wins or Loses the Game, all players' points reset to zero.
+
+Any player who Lost the most recent round is properly styled "The Defeated". If a player also Lost the prior round, he or she is instead styled "The Misguided". If that player also Lost the round before that (for a total of three Losses in a row), he or she is instead styled "The Vanquished". 
+
+Any player who Won the most recent round is properly styled "The Winner". If a player also Won the prior round, he or she is instead styled "The Victorious". If that player also Won the round before that (for a total of three Wins in a row), he or she is instead styled "The Champion". 
+
+Any player who neither Won nor Lost the most recent round is properly styled "The Participant".
+
