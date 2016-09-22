@@ -156,6 +156,12 @@ In the event that a Gamemaster is unreachable but needs to do something for the 
 
 The Gamemaster is currently Mitchell Cieminski. If the Gamemaster resigns from office, they can amend this rule only to appoint a new Gamemaster. Otherwise, new Gamemasters are determined by amending this rule in the usual way.
 
+##216
+###Burn Notice 
+If any player ("The Accuser") asserts or alleges that some Set of players ("The Accused": potentially including The Accuser) are team-mates, then any member of The Accused may elect to receive a Burn Notice.  This player is immediately penalized 5 points and is properly styled "Michael Weston" until the round is ended by any player Winning or Losing. 
+
+A Burn Notice formally and unchallengably nullifies any alleged teammateship between Michael Westen and the other members of The Accused for the remainder of the current round.  The other members of The Accused may still be accused of being teammates with each other or other players, but not as part of a team that includes Michael Westen.
+
 ##301
 All rules must have a Title to be enacted. The Title of a rule is a part of that rule.
 
