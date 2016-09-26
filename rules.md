@@ -101,11 +101,7 @@ Each player always has exactly one vote.
 
 ##209
 ###"30 Mutable Rules Is Enough For Anybody"
-At no time may there be more than 30 mutable rules.
-
-##210
-###"Conspiracy Theories"
-Players may not conspire or consult on the making of future rule-changes unless they are teammates. 
+At no time may there be more than 30 mutable rules. 
 
 ##211
 ###"Conflict Resolution"
@@ -218,4 +214,13 @@ Any player who Lost the most recent round is properly styled "The Defeated". If 
 Any player who Won the most recent round is properly styled "The Winner". If a player also Won the prior round, he or she is instead styled "The Victorious". If that player also Won the round before that (for a total of three Wins in a row), he or she is instead styled "The Champion". 
 
 Any player who neither Won nor Lost the most recent round is properly styled "The Participant".
+
+#_GN: Trash_
+_GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
+
+##_Repealed Rule 310_
+###_"Conspiracy Theories"_
+_Players may not conspire or consult on the making of future rule-changes unless they are teammates._
+
+_This Rule was previously known as Rule 210._
 
