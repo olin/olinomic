@@ -217,6 +217,20 @@ Any player who Won the most recent round is properly styled "The Winner". If a p
 
 Any player who neither Won nor Lost the most recent round is properly styled "The Participant".
 
+##313
+###The High Court of Olinomic
+
+There is a High Court of Olinomic, consisting of all players who
+
+- have previously served as Judge AND
+- who appoint themselves to The Court.
+
+The High Court of Olinomic is always a legally valid Judge, and it will make decisions of Judgement when no other entity can, may, or will, or if a turn's valid Judge explicitly defers Judgement to it. The High Court of Olinomic has supreme judicial power, and this very rule has supreme power over rules related to Judgement. If for some reason no player meets all of the above membership criteria, the Gamemaster will appoint one player to the Court who is themself not subject to those criteria.
+
+The Court will name one of its members its leader (or, if they do not, the duty shall fall to the most-senior member of The Court), who is properly styled "Chief Justice of Olinomic". All other members of The Court are properly styled "Justice of Olinomic".
+
+The Court decides its own procedures for governance and delivering its decisions, but once it has been asked to serve as Judge, it must deliver a decision. If The Court does not decide within 7 days of it being asked to decide Judgement, the Chief Justice will flip a coin and interpret its meaning as the final decision of The Court.
+
 #_GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
