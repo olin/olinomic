@@ -231,6 +231,18 @@ The Court will name one of its members its leader (or, if they do not, the duty 
 
 The Court decides its own procedures for governance and delivering its decisions, but once it has been asked to serve as Judge, it must deliver a decision. If The Court does not decide within 7 days of it being asked to decide Judgement, the Chief Justice will flip a coin and interpret its meaning as the final decision of The Court.
 
+##314
+###It's time to D-D-D-D-DUEL!
+A Duel is a public conflict between players that results in points being transferred from one player to another.
+
+A Duel is initiated when a player (the Challenger) Challenges another player (the Challenged). This is done at any time via a public proclamation, which details a grievance against the Challenged, the number of points they propose to Duel over, and the nature of the contest they propose a determine the Duel's outcome. The number of points to Duel over must be less than or equal to both the Challenger's and the Challenged's current scores.
+
+Upon receiving a Challenge, the Challenged player must either accept or refuse. If they refuse, they are properly styled "The Shamed." If they accept, the Duel begins, and the Challenger and the Challenged will participate in the contest stated in the Challenge.
+   
+Once the contest has been completed, the Duel is over. The loser of the contest will transfer the number of points specified in the Challenge to the winner, conserving the total number of points in the game. The winner is properly styled "The Sharp," and the loser is properly styled "The Deceased." If the Challenger and the Challenged disagree on the outcome of the Duel, a Judge who is neither of the players has the final word.
+
+When a player earns a style through mechanisms in this rule, they lose any styles previously earned through mechanisms in this rule.
+
 #_GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
