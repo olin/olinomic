@@ -74,6 +74,10 @@ Rule-changes that affect rules needed to allow or apply rule-changes are as perm
 ###"NP=P"
 Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
+##209
+###"30 Mutable Rules Is Enough For Anybody"
+At no time may there be more than 30 mutable rules. 
+
 #Mutable Rules
 ##201
 ###"Point Of Order"
@@ -98,10 +102,6 @@ When a proposed rule-change is defeated, the player who proposed it loses 10 poi
 ##207
 ###"Money Is Not Speech"
 Each player always has exactly one vote.
-
-##209
-###"30 Mutable Rules Is Enough For Anybody"
-At no time may there be more than 30 mutable rules. 
 
 ##211
 ###"Conflict Resolution"
