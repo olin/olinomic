@@ -74,9 +74,11 @@ Rule-changes that affect rules needed to allow or apply rule-changes are as perm
 ###"NP=P"
 Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
-##209
+##312
 ###"30 Mutable Rules Is Enough For Anybody"
 At no time may there be more than 30 mutable rules. 
+
+This Rule was previously known as Rule 209
 
 #Mutable Rules
 ##201
