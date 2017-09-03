@@ -245,7 +245,8 @@ When a player earns a style through mechanisms in this rule, they lose any style
 # 315
 ### Wait for it...
 No player other than they who takes the current turn may propose a rule-change.
-_GN: this rule was proposed by a player whose turn it wasn't, and was passed by a vote that happened before it was proposed.
+
+_GN: this rule was proposed by a player whose turn it wasn't, and was passed by a vote that happened before it was proposed._
 
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
