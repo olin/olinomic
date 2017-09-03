@@ -3,6 +3,8 @@ _GN: Gamemaster's Notes appear in italics and are prefixed with "GN:". They are 
 
 _GN: The initial set of rules was modified by Mitchell Cieminski from http://legacy.earlham.edu/~peters/writing/nomic.htm_
 
+_GN: Have an idea? Put it here: https://docs.google.com/document/d/1KIsVeRCEAzDlEWu_DgskXZf4GM408_bVH0rEPlk6rro/edit_
+
 # Immutable Rules
 ## 101
 ### "This. Is. Olinomic!"
