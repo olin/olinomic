@@ -113,18 +113,6 @@ If at least one of the rules in conflict explicitly says of itself that it defer
 
 If two or more rules claim to take precedence over one another or to defer to one another, then the numerical method again governs.
 
-## 212
-### "The Judicial Branch"
-If players disagree about the legality of a move or the interpretation or application of a rule, then the player preceding the one moving is to be the Judge and decide the question. Disagreement for the purposes of this rule may be created by the insistence of any player. This process is called invoking Judgment.
-
-When Judgment has been invoked, the turn does not end without the consent of a majority of the other players or until Judgement has been decided.
-
-The Judge's Judgment may be overruled only by a unanimous vote of the other players taken before the next turn is begun. If a Judge's Judgment is overruled, or if the Judge decides to defer Judgement, then the player preceding the Judge in the playing order becomes the new Judge for the question, and so on, except that no player is to be Judge during his or her own turn or during the turn of a team-mate.
-
-Unless a Judge is overruled or defers Judgement, one Judge settles all questions arising from the game until the next turn is begun, including questions as to his or her own legitimacy and jurisdiction as Judge.
-
-New Judges are not bound by the decisions of old Judges. New Judges may, however, settle only those questions on which the players currently disagree and that affect the completion of the turn in which Judgment was invoked. All decisions by Judges shall be in accordance with all the rules then in effect; but when the rules are silent, inconsistent, or unclear on the point at issue, then the Judge shall consider game-custom and the spirit of the game before applying other standards.
-
 ## 213
 ### "&#35;winning: By Cleverness Or Monumental Stupidity"
 If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner. After winning in this way, that player (and any other people that the winner recruits) must decide how to fix the loophole and change the rules by fiat so that gameplay can continue. If they refuse this duty, the duty falls to the Gamemaster.
@@ -242,11 +230,27 @@ Once the contest has been completed, the Duel is over. The loser of the contest 
 
 When a player earns a style through mechanisms in this rule, they lose any styles previously earned through mechanisms in this rule.
 
-# 315
+## 315
 ### Wait for it...
 No player other than they who takes the current turn may propose a rule-change.
 
 _GN: this rule was proposed by a player whose turn it wasn't, and was passed by a vote that happened before it was proposed._
+
+## 316
+### "The Judicial Branch"
+If players disagree about the legality of a move or the interpretation or application of a rule, then the High Court of Olinomic will act as Judge and decide the question. Disagreement for the purposes of this rule may be created by the insistence of any player. This process is called invoking Judgment.
+
+While acting as Judge, The Judge is properly styled "Their Esteemed Honor" and hold the item The Gavel Of Justices.
+
+When Judgment has been invoked, the turn does not end without the consent of a majority of the other players or until Judgement has been decided.
+
+The Judge's Judgment may be overruled only by a unanimous vote of the other players taken before the next turn is begun. If a Judge's Judgment is overruled, or if the Judge decides to defer Judgement, then The High Court of Olinomic becomes the new Judge for the question.
+
+Unless a Judge is overruled or defers Judgement, one Judge settles all questions arising from the game until the next turn is begun, including questions as to their own legitimacy and jurisdiction as Judge.
+
+New Judges are not bound by the decisions of old Judges. New Judges may, however, settle only those questions on which the players currently disagree and that affect the completion of the turn in which Judgment was invoked. All decisions by Judges shall be in accordance with all the rules then in effect; but when the rules are silent, inconsistent, or unclear on the point at issue, then the Judge shall consider game-custom and the spirit of the game before applying other standards.
+
+This Rule was previously known as Rule 212.
 
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
