@@ -248,6 +248,14 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 
 This Rule was previously known as Rule 212.
 
+## 318
+### Expulsion
+Any player may be Expelled the mechanisms of this rule. When a player is Expelled, they  immediately lose their player status. If it was the now-Expelled player's turn, the turn immediately is complete and ends, and the next turn begins.
+
+A player may be Expelled by the mechanism(s) described in any rule that contains in its title the hashtag _&#35;expulsionmechanism_. If and only if there is no such rule, the following _&#35;expulsionmechanism_ may Expell a player: "A player is Expelled by a unanimous Vote To Expell of all players. If a player does not vote in a Vote To Expell within 10 game days of such a vote being initiated, the Vote To Expell will be counted without that player's vote."
+
+For interpretive purposes, this rule takes precedence over all rules regarding loss of player status and turn timing, though players can still lose player status by other means as described in the rules.
+
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
