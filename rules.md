@@ -87,10 +87,6 @@ This Rule was previously known as Rule 209
 ### "Point Of Order"
 Players shall alternate in alphabetical order by surname, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
-## 202 
-### "What's A Turn?"
-One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) subtracting 291 from the ordinal number of the proposal, multiplying the result by the fraction of favorable votes it receives, rounding the result to the nearest integer, and adding this number to one's score (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.).
-
 ## 204
 ### "10 Points For Dissenterdor!"
 If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.
@@ -259,6 +255,16 @@ The Challenge must be constructed in such a way that the outcome creates one win
 When a player earns a style through mechanisms in this rule, they lose any styles previously earned through mechanisms in this rule.
 
 This Rule was previously known as Rule 314
+
+## 320
+### "What's a Turn?"
+One turn consists of three parts in this order
+
+1. The player whose turn it is proposes one rule-change (the proposal can be amended until the initiation of an adoption mechanism and can not be re-amended until the end of that adoption mechanism or the end of part 2, whichever comes first).
+2. The rule-change undergoes at least one process to determine if it is adopted. This part of the turn ends immediately when a rule-change is adopted or, after at least one such process, when the player whose turn it is or the Judge decides that this part of the turn is over.
+3. The Gamemaster awards (C + 10 - R) points, where C is the ordinal number of the proposal and R is the number of the last rule-change enacted before a player won, to the player whose turn it is, if the rule was adopted.
+
+This Rule was previously known as Rule 202
 
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
