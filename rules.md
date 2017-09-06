@@ -155,16 +155,6 @@ The victory point limit updates immediately upon the start of a turn, meaning th
 
 This Rule was previously known as Rule 208
 
-## 304
-### "OUTATIME"
-Turns will begin when their start is announced by the Gamemaster. Turns should generally not last more than two game days, but a turn does not end until it is complete. Players should therefore act in a Spirit of Timeliness when performing game actions.
-
-If a turn has lasted for more than three game days, the Gamemaster (or a majority of players) may accuse one or more players of Acting In An Untimely Manner and invoke Judgement. The Judge will decide if the accused are guilty of the accusation. If any player is found guilty, their player status is removed (unless they are protected from such a sanction) and the vote is counted as if they were not eligible voters. If the proponent of a Rule-Change is found guilty, their proposal automatically fails and the turn is complete.
-
-If a turn ends less than 12 game hours after it begins, the Gamemaster (or a majority of players) may award one or more players the Trophy of Timeliness to recognize their contribution to the game of Olinomic. This Trophy can be destroyed by declaration to the mailing list in exchange for one point. Each player can only posses one Trophy of Timeliness at a time, and may not transfer it to any other player. Any player who possesses a Trophy of Timeliness is properly styled "The Timely."
-
-This Rule was previously known as Rule 214
-
 ## 306
 ### Wibbly-Wobbly, Timey-Wimey... Stuff
 All dates and units of time are to be measured from the inertial reference frame of an observer at rest on Earth’s surface at mean sea level at 0°00'00.0"N, 0°00'00.0"E, about 306 nautical miles off the coast of Ghana. 
@@ -230,7 +220,7 @@ Unless a Judge is overruled or defers Judgement, one Judge settles all questions
 
 New Judges are not bound by the decisions of old Judges. New Judges may, however, settle only those questions on which the players currently disagree and that affect the completion of the turn in which Judgment was invoked. All decisions by Judges shall be in accordance with all the rules then in effect; but when the rules are silent, inconsistent, or unclear on the point at issue, then the Judge shall consider game-custom and the spirit of the game before applying other standards.
 
-This Rule was previously known as Rule 212.
+This Rule was previously known as Rule 212
 
 ## 318
 ### Expulsion
@@ -265,6 +255,16 @@ One turn consists of three parts in this order
 3. The Gamemaster awards (C + 10 - R) points, where C is the ordinal number of the proposal and R is the number of the last rule-change enacted before a player won, to the player whose turn it is, if the rule was adopted.
 
 This Rule was previously known as Rule 202
+
+## 321
+### "OUTATIME"
+Turns will begin when their start is announced by the Gamemaster. Turns should generally not last more than two game days, but a turn does not end until all its parts have taken place, or when a rule, in the opinion of a Judge, specifies that the turn has ended. Players should therefore act in a Spirit of Timeliness when performing game actions.
+
+If a turn ends less than 12 game hours after it begins, the Gamemaster (or a majority of players) may award one or more players the Trophy of Timeliness to recognize their contribution to the game of Olinomic. This Trophy can be destroyed by declaration to the mailing list in exchange for one point. Each player can only posses one Trophy of Timeliness at a time, and may not transfer it to any other player. Any player who possesses a Trophy of Timeliness is properly styled "The Timely."
+
+This Rule was previously known as Rule 214
+
+This Rule was previously known as Rule 304
 
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
