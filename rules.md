@@ -266,6 +266,14 @@ This Rule was previously known as Rule 214
 
 This Rule was previously known as Rule 304
 
+## 322
+### Even A Broken Watch ...
+Any player who has had a turn that lasted more than one year can, at a time of their choosing, make a claim to the Gamemaster for a functional watch. Instead, the Gamemaster will immediately award that player one Broken Watch. The player is thereafter properly styled "The Inexorably Late." Each player may only ever receive one Broken Watch in response to a claim, and this is the only way a Broken Watch may be awarded. Upon being awarded that Broken Watch, the Player will set it once to a time of their choosing that it will display in perpetuity. This time is expressed in a 24-hour format, consisting of four digits (the first two between 00 and 23 inclusive, the last two between 00 and 59, inclusive), and cannot be 00:00.
+
+Any player who properly possesses a Broken Watch may not do anything with it except give it to another player or this: once on each of their turns, they may look wistfully at it, regret its broken state, and ask the Gamemaster for the current time. The Gamemaster will then award the player with the Watch eight (8) points for their attempt to be timely, visit [this link](https://www.random.org/clock-times/?num=1&earliest=00%3A01&latest=23%3A59&interval=1&format=plain&rnd=new) and report the time returned. If the Gamemaster is the player who asked the time, then the duty of checking the time will fall to the player who comes after the Gamemaster in order of play.
+
+If the Watch displays the time the time-checker reports, the player with the Watch will be styled as "Temporarily Temporally Gifted," and all other players immediately receive the number of points as the time expressed on the watch as a four digit base-10 integer, divided evenly among them (for example, if the time displayed is 15:45, and there are five players in addition to player who asked the time, each of those players will receive 309 points). If, however, the Watch does not display the time the time-checker reports, the player who possesses the Watch can no longer be trusted with their essential time-keeping duties; if they are currently styled as "Temporarily Temporally Gifted," they will no longer be styled as such, and they must give the Watch to another player of their choosing.
+
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
