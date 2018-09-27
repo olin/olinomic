@@ -274,6 +274,12 @@ Any player who properly possesses a Broken Watch may not do anything with it exc
 
 If the Watch displays the time the time-checker reports, the player with the Watch will be styled as "Temporarily Temporally Gifted," and all other players immediately receive the number of points as the time expressed on the watch as a four digit base-10 integer, divided evenly among them (for example, if the time displayed is 15:45, and there are five players in addition to player who asked the time, each of those players will receive 309 points). If, however, the Watch does not display the time the time-checker reports, the player who possesses the Watch can no longer be trusted with their essential time-keeping duties; if they are currently styled as "Temporarily Temporally Gifted," they will no longer be styled as such, and they must give the Watch to another player of their choosing.
 
+## 324
+### Lemmings
+When a rule passes by unanimous approval, it is said to have Fallen Out Of The Sky During Stormy Weather. When a rule Falls Out Of The Sky During Stormy Weather, its proposer is styled "The First Lemming" and loses a number of points equivalent to 9.8\*number of players who voted for the proposal (gravity hurts when lemmings are falling on top of you). However, if the leader was already styled as "The First Lemming," they instead become “The Trendsetter.” Each time a Trendsetter is able to unanimously pass a proposal, they gain a number of points equivalent to 5\*number of players who voted for the proposal. They remain "The Trendsetter" until they have been styled "A Blind Follower".
+
+When a rule Falls Out Of The Sky During Stormy Weather, any players styled “A Blind Follower” cease to be styled as such, and the last player to vote is styled "A Blind Follower". If, on subsequent rule change proposals, the players who have already cast their votes have voted the same way, any player styled "A Blind Follower" must match their votes. If a Blind Follower votes first, they may vote whatever way they so desire.
+
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
