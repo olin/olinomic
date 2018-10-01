@@ -280,6 +280,14 @@ When a rule passes by unanimous approval, it is said to have Fallen Out Of The S
 
 When a rule Falls Out Of The Sky During Stormy Weather, any players styled “A Blind Follower” cease to be styled as such, and the last player to vote is styled "A Blind Follower". If, on subsequent rule change proposals, the players who have already cast their votes have voted the same way, any player styled "A Blind Follower" must match their votes. If a Blind Follower votes first, they may vote whatever way they so desire.
 
+## 325
+### Ssssshhhh!
+Henceforth, Claire Kincaid shall be properly styled The Bear. Between the hours of 0000 and 0730, The Bear will be hibernating, and any player who emails the olinomic list shall wake the bear and draw its ire. This player shall then be properly styled "The Waker of the Bear" and shall lose a number of points equal to the Bear's irritation on a scale from .01 (not irritated) to .50 (fuck off) * (1000 - the time stamp of the email). Players will thus be penalized more for waking the bear in the late evening rather than the semi-early morning. 
+
+If an irritation level above 0.2 is chosen, The Bear will then choose one item from The Waker's inventory, or, in the absence of inventory items, shall remove a limb of its choice, which will limit the physical distance a player may move from any declared object, including but not limited to campfires, bear traps, other players, and portals to the netherworld, in a single turn. Limb-challenged players shall be limited as follows: If a player is missing 1 limb, they may declare a maximum physical move of 10 in a single turn. If missing 2 limbs, they may declare a maximum physical move of 7 in a single turn. If missing 3 limbs, they may declare a maximum physical move of 3 in a single turn. If they are Limbless, they may not move. 
+
+The Waker of the Bear shall remain styled as such until the next unlucky player wakes the bear, at which point the former Waker will be styled "One-Armed Jo" or "One-Legged Jo" depending on which limb was removed. If a limb was not removed, the former Waker will be styled "The Lucky Bastard (Jo)". If a player becomes the waker multiple times and eventually loses multple limbs, they will be, at times when they are not styled "The Waker", appropriately styled "No-Armed Jo" "No-Legged Jo" "No-Armed, One-Legged Jo" "No-Legged, One-Armed Jo" or "The Limbless (Jo)"
+
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
