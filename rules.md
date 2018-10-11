@@ -297,6 +297,8 @@ Once The Bear has taken all it is entitled to, The Waker will cease to by styled
 * "The Limbless (Jo)" if they have no arms and no legs, or
 * "The Lucky Bastard (Jo)" if they have two arms and two legs.
 
+This Rule was previously known as Rule 325.
+
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
