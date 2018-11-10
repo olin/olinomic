@@ -19,3 +19,17 @@ This document contains a record of every Session of The High Court since 2018-10
 > This plainly means that at the moment that the Duel possibly ended, the adopted rule-change was in effect. This means that the Duel was, at the time it might have been completed, illegal, according to Rule 328:
 > 
 > > The magnitude of the number of points over which to Duel must not exceed the magnitude of either the Challenger's or the Challenged's current scores.
+
+## Case 1: "I don't care"
+### 2018-11-09/10
+
+**Questions:**
+- Can a vote for "I don't care" be counted as "in favor"?
+
+**Rulings:**
+- Judgement: yes.
+
+**Reasonings:**
+> Olinomic has a long historical precedent of counting votes like "for" and "yes" as "in favor" for the purposes of determining the outcome of an adoption mechanism, and votes like "no" and "disapprove" as "against" for [Rule 204](https://github.com/olin/olinomic/blob/master/rules.md#204). Which isn't to say that this tradition is legal per se, but that it at least has never been found to be illegal. More importantly, the allowance of this has historically seemed to rely on the fact that the Gamemaster "counts votes on each rule-change and collects ballots in a manner of their choosing" ([Rule 215](https://github.com/olin/olinomic/blob/master/rules.md#215)), which has been interpreted to mean that the Gamemaster also is to interpret ballots when they are in some way unclear. "I don't care" seems to be a vote that's quite unclear in its intentions, and therefore interpreting it falls to the Gamemaster. So indeed such a vote can count as "in favor" or "against", and the difference between "can count" and "does count" falls within the prerogative of the Gamemaster.
+
+> Furthermore, this hypothetical duty of the Gamemaster has a check, giving us reason to believe that it's an appropriate power for them to have. As per Rule 215, "Actions of the Gamemaster can be overturned by Judgement or unanimous vote of all other players", meaning that if the Gamemaster's interpretation is clearly out of line, Players have recourse for forcing a "correct" interpretation. This check is sufficient to allow the Gamemaster such interpretive power.
