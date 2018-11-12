@@ -163,20 +163,6 @@ Whenever a rule mentions a specific time of day without containing enough inform
  
 Whenever a rule mentions a whole-day-delineated period of time ("day", "week", "fortnight", "month", "semester", "quarter", "year", "decade", "century", "millenium", "eon", "aeon", etc), that period shall be the requisite number of days, times 86,400 seconds per day.  Game Days (and other units) may have discontinuities when expressed Olin Time - for example, if the Game has been paused by the Gamemaster.
 
-## 307
-### Fours Suck
-A rule-change is adopted if the number of votes in favor of it was greater than half the number of eligible voters, whole, and not divisible by four. This is termed Regular Adoption.
-
-While proposing a rule-change, the proponent may request an Expedited Adoption of it. If every eligible voter votes in favor of an Expedited Adoption within one hour of it being requested, the rule-change is immediately adopted without debate or discussion, and the player who voted last automatically receives an Expeditor Badge. Any player who possesses an Expeditor Badge is properly styled "The Expedient." If the vote on Expedited Adoption fails, the turn continues as usual (likely but not necessarily including a call to vote via Regular Adoption).
-
-Rules can only be adopted by Regular or Expedited Adoption.
-
-This Rule was previously known as Rule 203
-
-This Rule was previously known as Rule 305
-
-_GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
-
 ## 309
 ### Achievement Unlocked
 Players who had a zero or negative score when another player Won are said to have "Lost" the Game. Whenever one or more players Wins or Loses the Game, all players' points reset to zero.
@@ -302,6 +288,37 @@ When a player earns a style through mechanisms in this rule, they lose any style
 This Rule was previously known as Rule 314
 
 This Rule was previously known as Rule 319
+
+## 329
+### Adoption Mechanisms
+
+There are at least the following four adoption mechanisms for rules. Rules can only be adopted by mechanisms described by this rule or by any rule with the hashtag #adoptionmechanism in its title.
+
+**Regular Adoption**
+
+The Player who proposed the present rule-change may request a vote by Regular Adoption at an appropriate time and not during another adoption mechanism. Then, a vote of all eligible voters will be taken. A rule-change is adopted by Regular Adoption if the number of votes in favor of it is greater than half the total number of votes and not divisible by four.
+
+**Null Adoption**
+
+At an appropriate time, at least two days after the start of the present turn, and not during another adoption mechanism, if a Judge's opinion requests a Null Adoption, a vote on the initial rule-change proposal without regard to any proposed amendments will occur. In a Null Adoption vote, every eligible voter is immediately considered to have cast their vote for "null," and the rule-change is not adopted.
+
+**Expedited Adoption**
+
+The Player who proposed the present rule-change may request a vote by Expedited Adoption exactly once on that turn, at an appropriate time and not during another adoption mechanism. The rule-change is adopted if every eligible voter votes in favor of  Expedited Adoption of the rule-change within one game hour of it being requested. At the end of that hour, any Player who has not yet voted is considered to have cast their vote for "null," and the rule-change is not adopted. When a rule-change is adopted by Expedited Adoption, all Players who voted in the Expedited Adoption vote automatically receive an Expeditor Badge. Any player who possesses an Expeditor Badge is properly styled "The Expedient."
+
+**Adoption Adoption**
+
+At an appropriate time, if no email has been sent to the Olinomic mailing list in at least three days, and not during another adoption mechanism, any Player other than the one who proposed the present rule-change may request a vote by Adoption Adoption. Then, a vote of all eligible voters will be taken, and the Player who proposed the present rule-change will be considered to have voted for "null." A rule-change is adopted by Adoption Adoption if the number of votes in favor of it is equal to the total number of votes minus one. The Player who requested a vote by Adoption Adoption is then properly styled "The Loving Adoptive Parent" until another Player requests a vote by Adoption Adoption. 
+
+This Rule was previously known as Rule 203
+
+This Rule was previously known as Rule 305
+
+This Rule was previously known as Rule 307
+
+_GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
+
+_GN: Rule 307 had the title "Fours Suck"_
 
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
