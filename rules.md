@@ -320,6 +320,15 @@ _GN: Rule 203 had the Historical Name "Majority Rules (Eventually)"_
 
 _GN: Rule 307 had the title "Fours Suck"_
 
+## 330
+### Timely Steps
+Should a player’s turn begin, and should 17 days, 2 hours, and 36 minutes pass before they propose a new rule, propose the removal of a rule, propose a rule modification, or take some other action within Olinomic, and should any other player send a message containing the phrase “Untimely Manner” after that time but before they have taken some action within Olinomic during their current turn, be it proclaimed:
+
+1. The player whose turn is underway is properly styled “The Unbearably Late”
+2. The score of the player whose turn is underway shall be reduced by 6 points
+3. For each additional 24 hours since the start of the player’s turn, the first player to send a message containing the phrase “Untimely Manner” shall be entitled to transfer up to one (1) point from the player whose turn is underway to themselves, conserving the point total in the game
+
+
 # _GN: Trash_
 _GN: The following section is all defunct and removed rules. They're given the number of the rule-change that removed them from play. They're still here in case I ever get around to making a repo of just rule-changes._
 
