@@ -45,3 +45,25 @@ This document contains a record of every Session of The High Court since 2018-10
 
 **Reasonings:**
 > It was ruled during an earlier challenge to this clause that the entity referred to as “Claire Kincaid” in the rules should be interpreted as Clur Klinclurd, also known as Claire Kincaid, regardless of player names. However, recall that the High Court is not bound by its past decisions. I would posit with the public ulterior motive of not bothering the non-player Claire Kincaid that the rule should, in fact, refer to the player Claire Kincaid.
+
+## Case 3: Kincaid v Foley
+### 2019-03-08/09
+
+**Questions:**
+- Can a player using the same email address vote twice in the same turn, if they forfeit between votes?
+- Specifically, did the player(s) using the email address 2015sfoley@gmail.com vote twice during this turn?
+
+**Rulings:**
+- A player may always vote twice, whether they forfeit in between or not, but they still only get one vote, which means that they move their original vote from one place to another when they re-vote.
+- The player(s) using the email address 2015sfoley@gmail.com is one player, who voted twice during this turn, yet only the latter of those votes ought to be counted by the Gamemaster.
+
+**Seasonings:**
+> Given that Rule 215 states that the Gamemaster "Keeps a record of all current players and their scores and strikes players from the record when they lose their player status," I believe it is within the Gamemaster's prerogative to what use whatever tools they deem necessary to determine playerhood.
+
+> Rule 101 clearly states that "A player shall be considered any member of the olinomic mailing list that announces their intent to play to the Gamemaster. People who have lost player status according to the rules may rejoin the game in this manner." There are a few key nouns in this sentence that help us determine what a 'player' is. 
+> A _player_ is a _member of the list_; 
+> A _person_ who was a _player_ can rejoin.
+
+> This indicates that a player must be a member of the list before they can declare their intent to play. It also means that when a player loses their player status, they become a person who can rejoin the game, presumably re-gaining their player status.
+
+> This means that if a member of the list loses their player status and re-joins the game, they are the same player. And, as Rule 207 reminds us, "each player always has exactly one vote." Yet as determined previously, players are allowed to divide their votes and move them from one place to another. 
