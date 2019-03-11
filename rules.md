@@ -173,19 +173,6 @@ Any player who Won the most recent round is properly styled "The Winner". If a p
 
 Any player who neither Won nor Lost the most recent round is properly styled "The Participant".
 
-## 313
-### The High Court of Olinomic
-There is a High Court of Olinomic, consisting of all players who
-
-- have previously served as Judge AND
-- who appoint themselves to The Court.
-
-The High Court of Olinomic is always a legally valid Judge, and it will make decisions of Judgement when no other entity can, may, or will, or if a turn's valid Judge explicitly defers Judgement to it. The High Court of Olinomic has supreme judicial power, and this very rule has supreme power over rules related to Judgement. If for some reason no player meets all of the above membership criteria, the Gamemaster will appoint one player to the Court who is themself not subject to those criteria.
-
-The Court will name one of its members its leader (or, if they do not, the duty shall fall to the most-senior member of The Court), who is properly styled "Chief Justice of Olinomic". All other members of The Court are properly styled "Justice of Olinomic".
-
-The Court decides its own procedures for governance and delivering its decisions, but once it has been asked to serve as Judge, it must deliver a decision. If The Court does not decide within 7 days of it being asked to decide Judgement, the Chief Justice will flip a coin and interpret its meaning as the final decision of The Court.
-
 ## 315
 ### Wait for it...
 No player other than they who takes the current turn may propose a rule-change.
@@ -327,6 +314,23 @@ Should a player’s turn begin, and should 17 days, 2 hours, and 36 minutes pass
 1. The player whose turn is underway is properly styled “The Unbearably Late”
 2. The score of the player whose turn is underway shall be reduced by 6 points
 3. For each additional 24 hours since the start of the player’s turn, the first player to send a message containing the phrase “Untimely Manner” shall be entitled to transfer up to one (1) point from the player whose turn is underway to themselves, conserving the point total in the game
+
+## 331
+### The High Court of Olinomic
+There is a High Court of Olinomic, consisting of all players who
+
+- have previously served as Judge AND
+- who appoint themselves to The Court.
+
+The High Court of Olinomic is always a legally valid Judge, and it will make decisions of Judgement when no other entity can, may, or will, or if a turn's valid Judge explicitly defers Judgement to it. The High Court of Olinomic has supreme judicial power, and this very rule has supreme power over rules related to Judgement. If for some reason no player meets all of the above membership criteria, the Gamemaster will appoint one player to the Court who is themself not subject to those criteria. All members of The Court are properly styled "Justice of Olinomic".
+
+
+The Court decides its own procedures for governance and delivering its decisions, but once it has been asked to serve as Judge, it must deliver a decision. If The Court does not decide within 7 days of it being asked to decide Judgement, the Chief Justice will flip a coin and interpret its meaning as the final decision of The Court.
+
+
+When the player who's surname is last in alphabetical order, as defined in Rule 201, 'Point of Order,' has completed their turn, the process for selecting a new 'Chief Justice of Olinomic' is initiated. The current Chief Justice is stripped of that title, and is not an eligible candidate in this round of voting. All other Justices must declare by email to the list whether they would like to run for the office; any who declare in the affirmative join the current round's Candidate Pool.
+
+Once every Justice has declared whether they are part of the Candidate Pool, the current Gamemaster is responsible for orchestrating an election of that pool in the manner in which the citizens of the Republic of Ireland elect their representatives to Parliament. If the Republic of Ireland ceases to exist, the High Court of Olinomic also ceases to exist. Every player must have the opportunity to vote in this election. The winner is henceforth styled 'The Chief Justice of Olinomic.'
 
 
 # _GN: Trash_
